@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.31.0](https://github.com/Gitlawb/openclaude/compare/v0.30.0...v0.31.0) (2026-09-02)
+
+
+### Features
+
+* **zai:** add GLM-5.3-Flash Coding Plan support ([#2185](https://github.com/Gitlawb/openclaude/issues/2185)) ([aceacf0](https://github.com/Gitlawb/openclaude/commit/aceacf0e590a7d84447a8c44f3aa61eba781a542))
+
 ## [0.30.0](https://github.com/Gitlawb/openclaude/compare/v0.29.1...v0.30.0) (2026-08-31)
 
 
